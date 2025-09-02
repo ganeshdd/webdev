@@ -1,0 +1,22 @@
+console.log(1>2)
+console.log(1<2)
+console.log(1>=2)
+console.log(1<=2)
+console.log(1==2)
+console.log(1===2)
+console.log(1!=2)
+console.log(1!==2)
+//string and num comparisons
+console.log(1>"2")
+console.log(1<"2")
+console.log(1>="2")
+console.log(1<="2")
+console.log(1=="2")
+console.log(1==="2")
+console.log(1!="2")
+console.log(1!=="2")
+//null comparions with zero
+console.log(null>0)
+console.log(null==0)
+console.log(null===0)//strict check dosesn't covert string to zero or null to zero
+console.log(null>=0)
